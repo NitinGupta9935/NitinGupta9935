@@ -21,8 +21,8 @@ Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and
 
 <a href="http://leetcode.com/guptanitin493/">
   <img align="left" alt="Nitin Leetcode" 
-    src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" 
+    src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" 
     width="30" height="30"
-    style=" padding-top: 4px;"
+    style=" padding-top: 6px;"
     />
 </a>
