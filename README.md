@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nitin!</h2>
 
-Software Engineer with 1.5 years of experience in java and spring boot. <br>
+Software Engineer with 2 years of experience in java and spring boot. <br>
 
 Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and Movies 🍿
 
