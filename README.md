@@ -10,10 +10,9 @@ Besides coding, I like chess ♟️, listening music 🎧, watching TV shows and
 
 🚀 Some of my projects 🔽
 
-- 💻 [Tenant Rental Application](#link) - The product is a  rental application used by landlords to assess a potential tenant's background history before giving them the lease for a property.
+- 💻 [Classic Connect](https://github.com/NitinGupta9935/Classic-Connect.git) - Classic Connect is a powerful and intuitive messaging application that enables seamless real-time communication among users. Whether you're chatting one-on-one or engaging in dynamic group discussions, Classic Connect delivers a smooth and immersive messaging experience.
 
-
-- 💻 [Book My Movie](#link) - The project is an online movie booking platform.
+- 💻 [Tenant Rental Application](https://github.com/NitinGupta9935/Tenant-System) - The product is a  rental application used by landlords to assess a potential tenant's background history before giving them the lease for a property.
 
 <a href="http://linkedin.com/in/nitin-gupta-a72178197/">
   <img align="left" alt="Nitin LinkedIn" src="https://img.icons8.com/color/512/linkedin.png" width="40" height="40"/>
